@@ -4,8 +4,8 @@ export const projects = [
     description:
       "A personal portfolio website to showcase my projects and skills.",
     imageUrl: "/src/assets/portfolio.png", 
-    githubLink: "",
-    liveLink: "",
+    githubLink: "https://github.com/GudariVenkaiahKasani/My-portfolio",
+    liveLink: "https://vercel.com/kasani-gudari-venkaiahs-projects/my-portfolio",
   },
   
   {
