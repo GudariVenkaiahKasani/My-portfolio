@@ -5,7 +5,7 @@ export const projects = [
       "A personal portfolio website to showcase my projects and skills.",
     imageUrl: "/src/assets/portfolio.png", 
     githubLink: "https://github.com/GudariVenkaiahKasani/My-portfolio",
-    liveLink: "https://vercel.com/kasani-gudari-venkaiahs-projects/my-portfolio",
+    liveLink: "https://my-portfolio-one-ruddy-90.vercel.app/",
   },
   
   {
